@@ -1,1 +1,7 @@
 /* PHASE 1: Header */
+header {
+    background-color: #ffffff;
+    color: #ff0000;
+    padding: 20px;
+    text-align: center;
+}
